@@ -1,1 +1,1 @@
-hola bienvenidos
+hola bienvenidos al curso de git 
